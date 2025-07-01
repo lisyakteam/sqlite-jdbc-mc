@@ -1,0 +1,4 @@
+name: SqliteJDBC
+version: '${version}'
+main: me.junioraww.sqlite.Main
+load: STARTUP
